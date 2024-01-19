@@ -14,7 +14,7 @@ divEntera = a // b
 modulo = a % b
 potencia = a ** b
 # El siguiente print muestra en consola el resultado de la resta como ejemplo
-print(f"Ejemplo de operador aritmetico (operacion entre {a} y {b}): {resta}")
+print(f"Ejemplo de operador aritmetico (operacion entre {a} y {b}): {modulo}")
 
 
 ## Comparacion
