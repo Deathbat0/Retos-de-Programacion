@@ -1,3 +1,4 @@
+Descripcion del reto porpuesto por BraisMoure--------------------------------------
 /*
  * EJERCICIO:
  * Explora el concepto de manejo de excepciones según tu lenguaje.
@@ -15,4 +16,6 @@
  * - Imprime el tipo de error.
  * - Imprime si no se ha producido ningún error.
  * - Imprime que la ejecución ha finalizado. 
- */
+ */ */ ----------------------------------------------------------------------------
+ En el presente repositorio se presenta mi solucion implementando
+ 3 lenguajes de programacion: Python, Java y C++
